@@ -1,3 +1,6 @@
+Gemfile.lock
+.rspec
+.ruby-version
 *.gem
 
 /.bundle/

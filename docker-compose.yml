@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  bunny_testing:
+    build: .
+    volumes:
+      - .:/bunny_testing
