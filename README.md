@@ -1,5 +1,8 @@
 # Bunny::Testing
 
+https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
+![](https://github.com/storkvist/bunny_testing/workflows/.github/workflows/rspec.yml/badge.svg)
+
 TODO: Write description here
 
 ## Installation
